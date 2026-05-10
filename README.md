@@ -78,6 +78,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 🧑‍🎨 - [Art & Literature](#art-literature)
 - 🛒 - [E-Commerce](#e-commerce)
 - 📦 - [Data Platforms](#data-platforms)
+- [zafronix/wc-mcp](https://github.com/zafronix/zafronix-wc-api/tree/main/mcp) 🌐 ☁️ - Every FIFA World Cup since 1930. 23 tournaments, full squads, knockout brackets, stadium altitudes, hat-tricks. Free tier API.
 - 🤖 - [Robotics & Physical AI](#robotics)
 
 <sup><details>
