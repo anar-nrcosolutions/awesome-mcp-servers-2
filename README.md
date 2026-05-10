@@ -78,7 +78,6 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 🧑‍🎨 - [Art & Literature](#art-literature)
 - 🛒 - [E-Commerce](#e-commerce)
 - 📦 - [Data Platforms](#data-platforms)
-- [zafronix/wc-mcp](https://github.com/zafronix/zafronix-wc-api/tree/main/mcp) 🌐 ☁️ - Every FIFA World Cup since 1930. 23 tournaments, full squads, knockout brackets, stadium altitudes, hat-tricks. Free tier API.
 - 🤖 - [Robotics & Physical AI](#robotics)
 
 <sup><details>
@@ -360,6 +359,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
 
+- <img src="https://api.zafronix.com/static/favicons/favicon-32x32.png" height="14"/> [World Cup History](https://github.com/zafronix/zafronix-wc-api/tree/main/mcp) - Every FIFA World Cup since 1930 with 15 tools: tournaments, teams, players, matches, stadiums, brackets, standings, trivia. 23 tournaments, 1,168+ matches, 2,500+ players, 206 stadiums.
 <br />
 
 ## 🤝 <a name="ai-services"></a>AI Services
